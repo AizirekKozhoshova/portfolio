@@ -163,3 +163,29 @@ body {
   color: var(--pure-white);
   border-radius: 8px;
 }
+
+.languages {
+  padding: 60px 0;
+}
+
+.languages ul {
+  margin-left: 250px;
+}
+
+.languages li {
+  padding: 6px 0;
+}
+
+.education {
+  color: var(--pure-white);
+  background-color: var(--accent);
+  padding: 50px 0;
+}
+
+.education li {
+  padding: 5px 0;
+}
+
+.footer p {
+  text-align: center;
+}
